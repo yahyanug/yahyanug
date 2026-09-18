@@ -4,7 +4,7 @@
 
 I mostly build backend applications, RESTful APIs, and microservices using **Java and Spring Boot**.
 
-I enjoy building things that are **reliable, maintainable, and scalable** — or at least trying my best to keep production happy.
+I enjoy building things that are **reliable, maintainable, and scalable** — or at least trying my best to keep production happy. 😆
 
 ---
 
@@ -40,7 +40,7 @@ Started out as a **Computer Engineering** student, spending my time around mecha
 
 Somehow ended up writing C# and Java - building backend systems.
 
-So yeah... I'm not purely a Web/App Software Engineer. 😆
+So yeah... I'm not purely a Web/App Software Engineer.
 
 ---
 
@@ -50,7 +50,7 @@ So yeah... I'm not purely a Web/App Software Engineer. 😆
 
 A collection of reusable Java utilities I use across different backend projects to avoid reinventing the same wheel over and over again.
 
-Feel free to use it, and any feedback or suggestions are always welcome! 😄
+Feel free to use it, and any feedback or suggestions are always welcome!
 
 🚧 Updated periodically based on usage 🚧
 
