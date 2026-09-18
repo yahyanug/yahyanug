@@ -1,16 +1,96 @@
-## Hi there 👋
+# 👋 Hi, I'm Human
 
-<!--
-**yahyanug/yahyanug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Java Developer ☕
 
-Here are some ideas to get you started:
+I mostly build backend applications, RESTful APIs, and microservices using **Java and Spring Boot**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building things that are **reliable, maintainable, and scalable** — or at least trying my best to keep production happy. 😄
+
+---
+
+## 💻 Tech Stack
+
+Things I've worked with along the way:
+
+**Backend & Programming**  
+Java • SQL • C# • JavaScript • Spring Boot • ASP.NET
+
+**Databases**  
+PostgreSQL • MariaDB • MySQL • SQL Server • Liquibase
+
+**Messaging & Integration**  
+Apache Kafka • REST APIs • Postmark • JavaMailSender
+
+**Testing**  
+JUnit • Mockito • WireMock
+
+**DevOps & Tools**  
+Git • Docker • Maven • Gradle • Postman • IntelliJ IDEA
+
+**Reporting**  
+JasperReports • BIRT Reports • Apache POI
+
+---
+
+## 💼 Experience
+
+Not going to turn this into another CV. 
+
+Started out as a **Computer Engineering** student, spending my time around mechatronics, PLCs, control systems, and computer networks.
+
+Somehow ended up writing C# and Java - building backend systems for a living.
+
+So yeah... I'm not purely a Web/App Software Engineer. 😆
+
+---
+
+## 🚀 Things I'm Building
+
+### 🔧 [Common Utilities](https://github.com/yahyanug/common-utilities)
+
+A collection of reusable Java utilities I use across different backend projects to avoid reinventing the same wheel over and over again.
+
+Feel free to use it. ⭐
+
+`Java` `Gradle` `Backend Utilities`
+
+### 🛒 [POS SaaS](https://github.com/yahyanug/pos-saas-micro)
+
+A multi-store Point of Sale SaaS project I'm building around inventory management, reporting, integrations, and scalable backend services.
+
+Still evolving, still experimenting. 🚧
+
+`Java` `Spring Boot` `PostgreSQL` `Docker` `Microservices`
+
+---
+
+## 🎓 Where It Started
+
+**Bachelor of Computer Engineering**  
+Universitas Dinamika (IBI Stikom Surabaya)
+
+---
+
+## 🌐 Languages
+
+- 🇬🇧 English — Professional Working Proficiency
+- 🇮🇩 Indonesian — Native
+- Javanese — Native
+
+---
+
+## ✨ Connect with this Human
+
+💼 [LinkedIn](https://www.linkedin.com/in/yahya-nugroho-6620831a0/)  
+🌐 [Facebook](https://www.facebook.com/ynugi/)  
+📧 [Email](mailto:yahya.nugroho.dev@gmail.com)  
+📍 Semarang, Indonesia
+
+## 🎮 Mabar ? Ikz
+
+**Honor of Kings (Mobile)**  
+Player ID: `8963386696502856234`
+
+**Naraka/CODM Pensi)**
+
+## Always happy to connect 👋
