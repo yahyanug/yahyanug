@@ -25,7 +25,7 @@ Apache Kafka • REST APIs • Postmark • JavaMailSender
 JUnit • Mockito • WireMock
 
 **DevOps & Tools**  
-Git • Docker • Maven • Gradle • Postman • IntelliJ IDEA
+Git • Docker • Maven • Gradle • Postman • IntelliJ IDEA • VS Code
 
 **Reporting**  
 JasperReports • BIRT Reports • Apache POI
