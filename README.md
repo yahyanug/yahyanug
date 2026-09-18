@@ -69,8 +69,7 @@ A multi-store Point of Sale SaaS project I'm building around inventory managemen
 ## 🎓 Where It Started
 
 **Bachelor of Computer Engineering**  
-🎓 [Universitas Dinamika (IBI Stikom Surabaya)](https://www.google.com/maps/search/?api=1&query=Universitas+Dinamika+Surabaya)  
-📍 Surabaya, Indonesia
+[Universitas Dinamika (IBI Stikom Surabaya)](https://www.google.com/maps/search/?api=1&query=Universitas+Dinamika+Surabaya)  
 
 ---
 
