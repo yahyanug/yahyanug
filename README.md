@@ -13,7 +13,7 @@ I enjoy building things that are **reliable, maintainable, and scalable** — or
 Things I've worked with along the way — and the list will probably keep growing wherever the journey takes me.
 
 **Backend & Programming**  
-Java • SQL • C# • JavaScript • Spring Boot • ASP.NET
+Java • SQL • C# • JavaScript • Spring Boot • ASP.NET MVC
 
 **Databases**  
 PostgreSQL • MariaDB • MySQL • SQL Server • Liquibase
