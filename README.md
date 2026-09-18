@@ -92,9 +92,8 @@ Universitas Dinamika (IBI Stikom Surabaya)
 ## 🎮 Mabar ? Ikz
 
 **Honor of Kings (Mobile)**  
-Player ID: `8963386696502856234` - Can play All role (Main role: Marksman & Roam)
-
 `Open for pro player scene (currently no team)`
+Player ID: `8963386696502856234` - Can play All role (Main role: Marksman & Roam)
 
 **(Naraka/CODM Pensi)**
 
