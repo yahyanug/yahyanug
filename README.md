@@ -91,6 +91,6 @@ Universitas Dinamika (IBI Stikom Surabaya)
 **Honor of Kings (Mobile)**  
 Player ID: `8963386696502856234`
 
-**Naraka/CODM Pensi)**
+**(Naraka/CODM Pensi)**
 
 ## Always happy to connect 👋
