@@ -34,15 +34,15 @@ JasperReports • BIRT Reports • Apache POI
 
 ## 💼 Experience
 
+`My **LinkedIn** is right there on the left. 👈`
+
 Not going to turn this into another CV. 
 
 Started out as a **Computer Engineering** student, spending my time around mechatronics, PLCs, control systems, and computer networks.
 
 Somehow ended up writing C# and Java - building backend systems.
 
-So yeah... I'm not purely a Web/App Software Engineer.
-
-`My **LinkedIn** is right there on the left. 👈`
+So yeah... not purely a Web/App Software Engineer.
 
 ---
 
