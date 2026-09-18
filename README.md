@@ -42,6 +42,8 @@ Somehow ended up writing C# and Java - building backend systems.
 
 So yeah... I'm not purely a Web/App Software Engineer.
 
+`My **LinkedIn** is right there on the left. 👈`
+
 ---
 
 ## 🚀 Things I'm Building
