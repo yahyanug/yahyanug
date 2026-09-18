@@ -70,7 +70,7 @@ As the project grows and gets more serious, this repo might eventually go privat
 
 ---
 
-## 🎓 Where It Started
+## 🎓 Graduated From
 
 **Bachelor of Computer Engineering**  
 [Universitas Dinamika (IBI Stikom Surabaya)](https://www.google.com/maps/search/?api=1&query=Universitas+Dinamika+Surabaya)  
