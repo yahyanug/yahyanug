@@ -60,6 +60,10 @@ Feel free to use it, and any feedback or suggestions are always welcome!
 
 A multi-store Point of Sale SaaS project I'm building around inventory management, reporting, integrations, and scalable backend services.
 
+I'm planning to turn this project into a real product, while continuously learning from competitors and refining it around real-world problems and the architecture I've designed. 
+I'm also looking at it from the business side — exploring business models, mapping out business flows, and using frameworks like the McKinsey 7S Model along the way.
+As the project grows and gets more serious, this repo might eventually go private. 👀
+
 🚧 Work in Progress 🚧
 
 `Java` `Spring Boot` `PostgreSQL` `Docker` `Microservices`
