@@ -83,7 +83,7 @@ Universitas Dinamika (IBI Stikom Surabaya)
 
 ## ✨ Connect with this Human
 
-💬 [WhatsApp](https://wa.me/6285156454869?text=Hi%20Yahya%2C%20I%20found%20your%20GitHub%20profile.)
+💬 [WhatsApp](https://wa.me/6285156454869?text=Hi%20Yahya%2C%20I%20found%20your%20GitHub%20profile.)  
 💼 [LinkedIn](https://www.linkedin.com/in/yahya-nugroho-6620831a0/)  
 🌐 [Facebook](https://www.facebook.com/ynugi/)  
 📧 [Email](mailto:yahya.nugroho.dev@gmail.com)  
