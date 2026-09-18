@@ -50,7 +50,9 @@ So yeah... I'm not purely a Web/App Software Engineer. 😆
 
 A collection of reusable Java utilities I use across different backend projects to avoid reinventing the same wheel over and over again.
 
-Feel free to use it. 
+Feel free to use it, and any feedback or suggestions are always welcome! 😄
+
+🚧 Updated periodically based on usage 🚧
 
 `Java` `Gradle` `Backend Utilities`
 
@@ -58,7 +60,7 @@ Feel free to use it.
 
 A multi-store Point of Sale SaaS project I'm building around inventory management, reporting, integrations, and scalable backend services.
 
-Still evolving, still experimenting. 🚧
+🚧 Work in Progress 🚧
 
 `Java` `Spring Boot` `PostgreSQL` `Docker` `Microservices`
 
