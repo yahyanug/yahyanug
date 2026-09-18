@@ -1,4 +1,4 @@
-# 👋 Hi Dear Visitor, I'm Human
+# 👋 Hi dear Visitor, i'm Human
 
 ### Backend Java Developer ☕
 
