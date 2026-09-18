@@ -42,8 +42,6 @@ Started out as a **Computer Engineering** student, spending my time around mecha
 
 Somehow ended up writing C# and Java - building backend systems.
 
-So yeah... not purely a Web/App Software Engineer.
-
 ---
 
 ## 🚀 Things I'm Building
