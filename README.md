@@ -46,6 +46,22 @@ Somehow ended up writing C# and Java - building backend systems.
 
 ## 🚀 Things I'm Building
 
+### 🏢 [KELORA](https://github.com/yahyanug/kelora-platform)
+
+A modular, multi-tenant SaaS platform I'm building to explore and solve real-world business operational problems.
+
+KELORA currently focuses on building a solid **Warehouse Management System (WMS)** and inventory foundation, with plans to gradually expand into POS, CRM, reporting, analytics, forecasting, AI-assisted insights, and IoT integration.
+
+The project is designed around a **microservices architecture**, with an emphasis on clear domain separation, inventory traceability, scalability, and maintainability.
+
+I'm continuously refining the architecture and business model while learning from real-world requirements and existing products.
+
+🚧 Actively under development — architecture and features may continue to evolve 🚧
+
+`Java 21` `Spring Boot` `Gradle` `Microservices` `PostgreSQL` `Redis` `Docker` `WMS` `Multi-Tenant SaaS`
+
+---
+
 ### 🔧 [Common Utilities](https://github.com/yahyanug/common-utilities)
 
 A collection of reusable Java utilities I use across different backend projects to avoid reinventing the same wheel over and over again.
