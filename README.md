@@ -87,6 +87,6 @@ Feel free to use it, and any feedback or suggestions are always welcome!
 
 Player ID: `8963386696502856234` - Can play All role (Main role: Marksman & Roam)
 
-`Open for pro player scene (currently no team)`
+`Open for pro player scene (currently no team) | Practice availability: 7 PM–11 PM.`
 
 ## Always happy to connect 👋
