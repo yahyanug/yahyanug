@@ -4,7 +4,7 @@
 
 I mostly build backend applications, RESTful APIs, and microservices using **Java and Spring Boot**.
 
-I enjoy building things that are **reliable, maintainable, and scalable** — or at least trying my best to keep production happy. 😆
+I enjoy building things that are **reliable, maintainable, and scalable** — or at least trying my best to keep **PRODUCTION** happy. 😆
 
 ---
 
