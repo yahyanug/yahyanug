@@ -46,11 +46,11 @@ Somehow ended up writing C# and Java - building backend systems.
 
 ## 🚀 Things I'm Building
 
-### 🏢 [KELORA](https://github.com/yahyanug/kelora-platform)
+### 🏢 [KELARUS](https://github.com/yahyanug/kelarus-platform)
 
 A modular, multi-tenant SaaS platform I'm building to explore and solve real-world business operational problems.
 
-KELORA currently focuses on building a solid **Warehouse Management System (WMS)** and inventory foundation, with plans to gradually expand into POS, CRM, reporting, analytics, forecasting, AI-assisted insights, and IoT integration.
+KELARUS currently focuses on building a solid **Warehouse Management System (WMS)** and inventory foundation, with plans to gradually expand into POS, CRM, reporting, analytics, forecasting, AI-assisted insights, and (hopefully) IoT integration.
 
 The project is designed around a **microservices architecture**, with an emphasis on clear domain separation, inventory traceability, scalability, and maintainability.
 
