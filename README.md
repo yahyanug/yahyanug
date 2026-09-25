@@ -97,12 +97,4 @@ Feel free to use it, and any feedback or suggestions are always welcome!
 📧 [Email](mailto:yahya.nugroho.dev@gmail.com)  
 📍 Semarang, Indonesia
 
-## 🎮 Mabar ? Ikz
-
-**Honor of Kings (Mobile)**  
-
-Player ID: `8963386696502856234` - Can play All role (Main role: Marksman & Roam)
-
-`Open to pro scene opportunities (currently teamless) | Available for practice: 7 PM–12 AM.`
-
 ## Always happy to connect 👋
