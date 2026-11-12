@@ -1,6 +1,6 @@
 # 👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋 
 
-### Backend Java Developer ☕
+### Backend Developer ☕
 
 I mostly build backend applications, RESTful APIs, and microservices using **Java and Spring Boot**.
 
